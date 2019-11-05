@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layoutPadding">20dp</dimen>
+    <dimen name="ivPadding">20dp</dimen>
+    <dimen name="tvMarginL">5dp</dimen>
+</resources>
